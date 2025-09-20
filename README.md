@@ -1,2 +1,2 @@
 # aireytech.github.io
-Code for personal website [airey.tech](https://airey.tech)
+Code for company website [airey.tech](https://airey.tech)
